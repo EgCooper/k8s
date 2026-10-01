@@ -1,0 +1,5 @@
+kubeadm-init.log
+kubeconfig*
+*.kubeconfig
+admin.conf
+calico.yaml
